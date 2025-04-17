@@ -1,0 +1,20 @@
+[
+  {
+    "titulo": "Nueva Colección de Zapatos",
+    "fecha": "16 de Marzo de 2024",
+    "imagen": "./assents/img/noticia1.jpg",
+    "contenido": "Descubre nuestra nueva colección de zapatos..."
+  },
+  {
+    "titulo": "Descuento Especial Veraniego",
+    "fecha": "15 de Marzo de 2024",
+    "imagen": "./assents/img/noticia2.jpg",
+    "contenido": "Aprovecha nuestros descuentos de verano..."
+  },
+  {
+    "titulo": "Línea Exclusiva Relojes",
+    "fecha": "14 de Marzo de 2024",
+    "imagen": "./assents/img/noticia3.jpg",
+    "contenido": "Presentamos nuestra nueva línea de relojes..."
+  }
+]
